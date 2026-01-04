@@ -12,5 +12,4 @@ A simple mini project that allows you to control screen brightness using an inpu
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap
 - Font Awesome
